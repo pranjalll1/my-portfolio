@@ -1,0 +1,44 @@
+{
+  "certificates": [
+    {
+      "id": 1,
+      "title": "DevOps Fundamentals: Building Skills from Code to Deployment",
+      "organization": "Lovely Professional University \u00b7 Centre for Professional Enhancement",
+      "date": "Aug 2026",
+      "image": "/certificates/lpu-devops.png",
+      "link": "https://drive.google.com/file/d/1CYGMibhH9MaLtiN-MZpvNlQgr7b1vwa_/view?usp=drive_link",
+      "badge": "Certificate of Merit",
+      "color": "#F97316"
+    },
+    {
+      "id": 2,
+      "title": "Linux Command and Shell Scripting",
+      "organization": "Skillera",
+      "date": "Nov 2024",
+      "image": "/certificates/skillera-linux.png",
+      "link": "https://drive.google.com/file/d/1WM3TwGHhzByehMA6CtxgQvynK1rOVw33/view?usp=drive_link",
+      "badge": "Certificate",
+      "color": "#EAB308"
+    },
+    {
+      "id": 3,
+      "title": "Programming Using C++",
+      "organization": "Infosys Springboard",
+      "date": "Aug 2025",
+      "image": "/certificates/infosys-cpp.png",
+      "link": "https://drive.google.com/file/d/1vqIWTkR7N64vybF7a0451kmJ15FAY8x4/view?usp=drive_link",
+      "badge": "Course Completion",
+      "color": "#0284C7"
+    },
+    {
+      "id": 4,
+      "title": "Fundamentals of Software Testing",
+      "organization": "Skillera",
+      "date": "Mar 2025",
+      "image": "/certificates/skillera-testing.png",
+      "link": "https://drive.google.com/file/d/1ELrqPsqGVpJyxX5y-xcXBzBWZ3vsmZlf/view?usp=sharing",
+      "badge": "Certificate",
+      "color": "#EAB308"
+    }
+  ]
+}

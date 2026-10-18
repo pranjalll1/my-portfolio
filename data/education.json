@@ -1,0 +1,43 @@
+{
+  "education": [
+    {
+      "id": 1,
+      "degree": "Bachelor of Technology \u2013 Computer Science and Engineering",
+      "institution": "Lovely Professional University",
+      "location": "Phagwara, Punjab, India",
+      "period": "Aug 2024 \u2013 Present",
+      "grade": "CGPA: 7.36",
+      "description": "Pursuing a B.Tech in Computer Science and Engineering.",
+      "logo": "/lpu-logo.png",
+      "icon": "university",
+      "color": "#6366F1",
+      "current": true
+    },
+    {
+      "id": 2,
+      "degree": "Intermediate (Class XII)",
+      "institution": "St. Joseph Inter College",
+      "location": "Lucknow, Uttar Pradesh",
+      "period": "Mar 2023 \u2013 Feb 2024",
+      "grade": "86%",
+      "description": "Completed intermediate education.",
+      "logo": "/images/education/school-logo.png",
+      "icon": "school",
+      "color": "#10B981",
+      "current": false
+    },
+    {
+      "id": 3,
+      "degree": "Matriculation (Class X)",
+      "institution": "St. Joseph Inter College",
+      "location": "Lucknow, Uttar Pradesh",
+      "period": "Mar 2021 \u2013 Feb 2022",
+      "grade": "91.5%",
+      "description": "Completed matriculation.",
+      "logo": "/images/education/school-logo.png",
+      "icon": "school",
+      "color": "#F59E0B",
+      "current": false
+    }
+  ]
+}

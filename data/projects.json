@@ -1,0 +1,69 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "CodeArena",
+      "description": "Developed a backend application using Spring Boot and MySQL. Containerized the application using Docker Compose and configured a 7-stage Jenkins CI/CD pipeline to automate build, testing, and deployment. Integrated GitHub webhooks to trigger the pipeline automatically on code pushes.",
+      "shortDescription": "Backend quiz application with automated Jenkins CI/CD and Docker Compose deployment.",
+      "tech": [
+        "Spring Boot",
+        "MySQL",
+        "Docker",
+        "Jenkins",
+        "CI/CD",
+        "GitHub"
+      ],
+      "type": "Backend / DevOps",
+      "device": "laptop",
+      "github": "https://github.com/pranjalll1",
+      "demo": "",
+      "image": "",
+      "featured": true,
+      "period": "Jul 2026"
+    },
+    {
+      "id": 2,
+      "title": "Advanced Bug Tracker and Task Management System",
+      "description": "A full-stack bug tracking and task management system with role-based access for four user roles. Built with Node.js, Express.js, MongoDB, Mongoose, JWT authentication, bcrypt password hashing, 25+ REST API endpoints, and MVC architecture. Includes role-specific dashboards and bug lifecycle management.",
+      "shortDescription": "Role based bug and task management system with secure authentication and 25+ REST API endpoints.",
+      "tech": [
+        "HTML",
+        "CSS",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Mongoose",
+        "JWT"
+      ],
+      "type": "Full Stack Web App",
+      "device": "laptop",
+      "github": "https://github.com/pranjalll1",
+      "demo": "https://advanced-bug-tracker.onrender.com",
+      "image": "/projects/bug-tracker.png",
+      "featured": true,
+      "period": "May 2026"
+    },
+    {
+      "id": 3,
+      "title": "Savvy AI Chat Bot",
+      "description": "An AI-powered study tool where users select a subject and receive auto-generated quizzes and explanations through an interactive chat interface powered by the Groq AI API. The backend handles prompt construction and JSON response parsing, while a progress dashboard tracks quiz scores across 50+ attempts.",
+      "shortDescription": "AI-powered study assistant that generates quizzes and explanations and tracks quiz progress.",
+      "tech": [
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "JavaScript",
+        "Groq AI API"
+      ],
+      "type": "AI / Full Stack",
+      "device": "laptop",
+      "github": "https://github.com/pranjalll1",
+      "demo": "",
+      "image": "",
+      "featured": true,
+      "period": "Apr 2026"
+    }
+    
+      
+  ]
+}

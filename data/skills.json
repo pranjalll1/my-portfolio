@@ -1,0 +1,129 @@
+{
+  "categories": [
+    {
+      "name": "Languages",
+      "icon": "code",
+      "skills": [
+        {
+          "name": "C++",
+          "icon": "SiCplusplus",
+          "color": "#00599C"
+        },
+        {
+          "name": "Java",
+          "icon": "SiOpenjdk",
+          "color": "#ED8B00"
+        },
+        {
+          "name": "JavaScript",
+          "icon": "SiJavascript",
+          "color": "#F7DF1E"
+        }
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "icon": "layers",
+      "skills": [
+        {
+          "name": "Next.js",
+          "icon": "SiNextdotjs",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "Node.js",
+          "icon": "SiNodedotjs",
+          "color": "#339933"
+        },
+        {
+          "name": "React.js",
+          "icon": "SiReact",
+          "color": "#61DAFB"
+        },
+        {
+          "name": "Spring Boot",
+          "icon": "SiSpring",
+          "color": "#6DB33F"
+        },
+        {
+          "name": "Vite",
+          "icon": "SiVite",
+          "color": "#646CFF"
+        }
+      ]
+    },
+    {
+      "name": "Databases",
+      "icon": "database",
+      "skills": [
+        {
+          "name": "MySQL",
+          "icon": "SiMysql",
+          "color": "#4479A1"
+        },
+        {
+          "name": "MongoDB",
+          "icon": "SiMongodb",
+          "color": "#47A248"
+        }
+      ]
+    },
+    {
+      "name": "Tools & Platforms",
+      "icon": "tool",
+      "skills": [
+        {
+          "name": "Git",
+          "icon": "SiGit",
+          "color": "#F05032"
+        },
+        {
+          "name": "GitHub",
+          "icon": "SiGithub",
+          "color": "#FFFFFF"
+        },
+        {
+          "name": "Postman",
+          "icon": "SiPostman",
+          "color": "#FF6C37"
+        },
+        {
+          "name": "Jenkins",
+          "icon": "SiJenkins",
+          "color": "#D24939"
+        },
+        {
+          "name": "Docker",
+          "icon": "SiDocker",
+          "color": "#2496ED"
+        },
+        {
+          "name": "IntelliJ IDEA",
+          "icon": "SiIntellijidea",
+          "color": "#FFFFFF"
+        }
+      ]
+    },
+    {
+      "name": "Soft Skills",
+      "icon": "layers",
+      "skills": [
+        {
+          "name": "Problem-Solving",
+          "icon": "SiLeetcode",
+          "color": "#FFA116"
+        },
+        {
+          "name": "Continuous Learning",
+          "icon": "SiBookstack",
+          "color": "#8B5CF6"
+        },
+        {
+          "name": "Adaptability",
+          "icon": "SiHandshake",
+          "color": "#10B981"
+        }
+      ]
+    }
+  ]
+}

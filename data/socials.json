@@ -1,0 +1,28 @@
+{
+  "socials": [
+    {
+      "name": "GitHub",
+      "url": "https://github.com/pranjalll1",
+      "icon": "SiGithub",
+      "color": "#FFFFFF",
+      "username": "pranjalll1"
+    },
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/pranjal-soni24/",
+      "icon": "SiLinkedin",
+      "color": "#0A66C2",
+      "username": "pranjal-soni24"
+    },
+    {
+      "name": "Email",
+      "url": "mailto:pranjalsoni1290@gmail.com",
+      "icon": "SiGmail",
+      "color": "#EA4335",
+      "username": "pranjalsoni1290@gmail.com"
+    }
+  ],
+  "email": "pranjalsoni1290@gmail.com",
+  "phone": "+917080657283",
+  "resumeUrl": "/resume.pdf"
+}

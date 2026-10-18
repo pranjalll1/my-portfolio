@@ -1,0 +1,72 @@
+{
+  "leetcode": {
+    "solved": 0,
+    "easy": 0,
+    "medium": 0,
+    "hard": 0,
+    "contestRating": 0,
+    "globalRank": 0,
+    "acceptanceRate": 0,
+    "submissions": 0,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "activeDays": 0,
+    "username": "",
+    "profileUrl": ""
+  },
+  "github": {
+    "repos": 0,
+    "publicRepos": 0,
+    "contributions": 0,
+    "stars": 0,
+    "commits": 0,
+    "pullRequests": 0,
+    "issues": 0,
+    "followers": 0,
+    "following": 0,
+    "username": "pranjalll1",
+    "topLanguage": "",
+    "languages": [
+      "C++",
+      "Java",
+      "JavaScript"
+    ],
+    "profileUrl": "https://github.com/pranjalll1"
+  },
+  "hackerrank": {
+    "badges": 0,
+    "stars": 0,
+    "certifications": 0,
+    "algorithmsScore": 0,
+    "dataStructuresScore": 0,
+    "problemSolvingScore": 0,
+    "username": "",
+    "profileUrl": ""
+  },
+  "gfg": {
+    "solved": 0,
+    "score": 0,
+    "scorePerProblem": 0,
+    "monthlyRanking": "",
+    "articlesRead": 0,
+    "practiceStreak": 0,
+    "username": "",
+    "profileUrl": ""
+  },
+  "personalDevelopment": {
+    "yearsExperience": 0,
+    "totalProjects": 3,
+    "completedProjects": 3,
+    "inProgressProjects": 0,
+    "totalCertifications": 4,
+    "totalSkills": 19,
+    "avgSkillsPerProject": 0,
+    "mostUsedTech": "JavaScript"
+  },
+  "skillUsage": {
+    "Frontend": [],
+    "Backend": [],
+    "Database": [],
+    "Other": []
+  }
+}

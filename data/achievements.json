@@ -1,0 +1,34 @@
+{
+  "achievements": [
+    {
+      "id": 1,
+      "title": "HackerRank Problem Solving",
+      "description": "Achieved 4-Star Problem Solving recognition through consistent practice of Data Structures and Algorithms.",
+      "image": "/images/achievements/coding-problems.webp",
+      "icon": "code",
+      "date": "CV-listed",
+      "color": "#10B981",
+      "category": "Problem Solving"
+    },
+    {
+      "id": 2,
+      "title": "Data Structures & Algorithms",
+      "description": "Solved 50+ Data Structures and Algorithms problems on LeetCode / NeetCode, as listed in the CV.",
+      "image": "/images/achievements/coding-problems.webp",
+      "icon": "code",
+      "date": "CV-listed",
+      "color": "#8B5CF6",
+      "category": "DSA"
+    },
+    {
+      "id": 3,
+      "title": "Open Source Contribution",
+      "description": "Contributed and merged a pull request improving automated test coverage for frontend utility functions, as listed in the CV.",
+      "image": "/images/achievements/academic-excellence.webp",
+      "icon": "code",
+      "date": "CV-listed",
+      "color": "#F59E0B",
+      "category": "Open Source"
+    }
+  ]
+}
