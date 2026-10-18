@@ -90,6 +90,13 @@ type SkillUsageGroup = {
   category: string;
   skills: Array<{ name: string; count: number }>;
 };
+type SkillUsageData = Record<
+  string,
+  Array<{ name: string; count: number }>
+>;
+
+const fallbackSkillUsage =
+  fallbackStats.skillUsage as SkillUsageData;
 
 type ApiErrors = {
   leetcode: string | null;
@@ -544,7 +551,10 @@ function deriveSkillUsageFromProjects() {
 }
 
 function mergeSkillUsageWithFallback(derived: SkillUsageGroup[]): SkillUsageGroup[] {
-  const fallbackGroups = Object.entries(fallbackStats.skillUsage).map(([category, skills]) => ({ category, skills }));
+  const fallbackGroups: SkillUsageGroup[] = Object.entries(
+  fallbackSkillUsage
+).map(([category, skills]) => ({ category, skills }));
+ 
 
   return fallbackGroups.map((fallbackGroup) => {
     const derivedGroup = derived.find((g) => g.category === fallbackGroup.category);
